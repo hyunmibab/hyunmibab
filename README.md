@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://www.instagram.com/w7dgusa11s/" target="_blank"><img src="https://img.shields.io/badge/E4405F?style=flat&logo=instagram&logoColor=FFFFFF"/></a>
+![instagram]<a href="https://www.instagram.com/w7dgusa11s/" target="_blank"><img src="https://img.shields.io/badge/E4405F?style=flat&logo=instagram&logoColor=FFFFFF"/></a>
 
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunmibab&show_icons=true&theme=radical)
+-->
