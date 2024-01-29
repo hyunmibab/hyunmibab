@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi
 
 <!--
 **hyunmibab/hyunmibab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![instagram]<a href="https://www.instagram.com/w7dgusa11s/" target="_blank"><img src="https://img.shields.io/badge/E4405F?style=flat&logo=instagram&logoColor=FFFFFF"/></a>
+<a href="https://www.instagram.com/w7dgusa11s/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=w7dgusa11s&logoColor=FFFFFF"/></a>
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunmibab&show_icons=true&theme=radical)
