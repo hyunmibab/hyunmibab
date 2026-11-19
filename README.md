@@ -13,7 +13,7 @@
 
 | 프로젝트 | 설명 | 기술 |
 | --- | --- | --- |
-| [church-team](https://github.com/hyunmibab/church-team) | CSV 참가자 명단을 바탕으로 팀을 배정하는 웹 도구 | Python, FastAPI, pandas |
+| [church-team](https://github.com/hyunmibab/church-team) | CSV 팀 배정 웹 도구의 공개 보관본 (현재 개발은 church-suite에서 관리) | Python, FastAPI, pandas |
 
 ## 개발하는 도구
 
